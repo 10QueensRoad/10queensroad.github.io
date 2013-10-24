@@ -8,13 +8,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 10 Queens Road
+title: 10 Queens Road
 tagline: Straight off the press.
 author :
   name : 10 Queens Road Team
   email : opensource@ausregistrygroup.com
   github : 10QueensRoad
-  twitter : 
+#  twitter : 
 excerpt_separator: <!--end excerpt-->
 paginate: 4
 
@@ -84,15 +84,15 @@ JB :
     provider : disqus
     disqus :
       short_name : 10queensroad
-    livefyre :
-      site_id : 
-    intensedebate :
-      account : 
-    facebook :
-      appid : 
-      num_posts: 
-      width: 
-      colorscheme: 
+#    livefyre :
+#      site_id : 
+#    intensedebate :
+#      account : 
+#    facebook :
+#      appid : 
+#      num_posts: 
+#      width: 
+#      colorscheme: 
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.

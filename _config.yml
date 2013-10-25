@@ -9,7 +9,6 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title: 10 Queens Road
-tagline: Straight off the press.
 author :
   name : 10 Queens Road Team
   email : opensource@ausregistrygroup.com

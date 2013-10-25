@@ -9,6 +9,7 @@ body {
 }
 .social {
   list-style: none;
+  padding: 0;
 }
 .social li {
   float: left;
